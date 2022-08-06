@@ -2,16 +2,16 @@
 ﻿
 [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url]
 
-# Optimisation d'un site WEB existant : La Panthére
-
+# Optimisation d'un site WEB existant : La Panthère
+<p align="center">
+  <img src="img/Lapanthere.png" alt="drawing" height="250"/>
+</p>
 Le site initial n'apparait qu'en deuxième page des moteurs de recherche. La mission consiste, dans un premier temps, à sélectionner 10 recommandations pour améliorer le site
 
 ## 🎯 Objectifs
   - Optimisation de la taille et de la vitesse d'un site web
   - Optimiser le référencement du site Web 
   - Garantir l'accessibilité du site 
-
-<img src="example.jpg" alt="drawing" height="250" width='100%'/>
 
 ## 🏗️ Actions effectuées 
 
